@@ -13,4 +13,4 @@ Este es un enlace a Gist [HelloWorld.py] (https://gist.github.com/jcotrado/4a649
 Este es enlace de prueba a [Colab script]https://colab.research.google.com/github/jcotrado/CloudComputing-demos/blob/main/Technical_docs.ipynb
 
 ## Logo 
-![ConvergenciaX Logo](https://github.com/jcotrado/CloudComputing-demos/issues/1)
+![ConvergenciaX Logo](https://github.com/jcotrado/CloudComputing-demos/issues/Convergenciax-Logo-Empresa #1)
